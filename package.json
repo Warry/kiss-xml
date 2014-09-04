@@ -1,6 +1,8 @@
 {
   "name": "kiss-xml",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "author" : "Maxime Dantec <hello@warry.fr>",
+  "repository" :    { "type" :  "git", "url" :   "git@github.com:warry/kiss-xml.git" },
   "description": "Stupid simple XML parser and serializer",
   "licenses": [
     {
