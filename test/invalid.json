@@ -1,0 +1,20 @@
+{
+  "children": [
+    { "comment": " comment " },
+    {
+      "name": "description",
+      "text": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "name": "list",
+      "attrs": {
+        "foo": "bar",
+        "children": [
+          { "name": "item", "attrs": { "id": "1" } },
+          { "name": "item", "attrs": { "id": "2" } },
+          { "name": "item", "attrs": { "id": "3" } }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<root>
+  <!-- comment -->
+  <![CDATA[<foo>]]>
+  <description>Lorem ipsum dolor sit amet</description>
+  <list foo="bar">
+    <item id="1" />
+    <item id="2" />
+    <item id="3" />
+  </list>
+</root>
