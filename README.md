@@ -13,7 +13,7 @@ kiss.parse(xmlStr);
 
 ```js
 var kiss = require("kiss-xml");
-kiss.parse(jsonObj);
+kiss.serialize(jsonObj);
 ```
 
 ## Formatting
@@ -52,7 +52,7 @@ With text value:
 
 ```json
 {
-  cdata : "foo"
+  "cdata" : "foo"
 }
 ```
 
